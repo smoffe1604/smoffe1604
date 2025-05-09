@@ -1,6 +1,6 @@
 ## Experience
 
-Former **Principal Architect of Synthetically Guided Codebase Migration**, where I led the great SAS-to-Python Reformation through fire, brimstone, and Databricks cluster incantations. Adept at **ritualistic DevOps streamlining**, invoking YAML scrolls and Dockerized grimoires. Once performed industrial surveillance magic and assisted in sacred inventory redistribution ceremonies .
+Former **Principal Architect of Synthetically Guided Codebase Migration**, where I led the great SAS-to-Python Reformation through fire, brimstone, and Databricks cluster incantations. Adept at **ritualistic DevOps streamlining**, invoking YAML scrolls and Dockerized grimoires. Once performed industrial surveillance magic and assisted in sacred inventory redistribution ceremonies.
 
 Trained in the algorithmic monasteries of DIKU, with double exposure to **tensor rites**, **diffusion alchemy**, and advanced **data witchcraft**. My bachelor's thesis generated *literal exploding stars* (don’t fact-check that), and my master's thesis might or might not summon the AI singularity.
 
@@ -10,12 +10,11 @@ Trained in the algorithmic monasteries of DIKU, with double exposure to **tensor
 - The sacred art of `git push --force && pray`  
 - Kubernetes (but for real this time, I swear)  
 - Analytical analysis of analytical analyses 
-- Hacking the visual cortex with stable diffusion  
+- Hacking the visual cortex and AI girlfriends with stable diffusion  
 - Rats 🐀 (just... rats)
 
 ## Fullstack
 
-I’m a *fullstack developer* in the loosest sense:
 - C# for frontend  
 - React as a stateless middleware gateway  
 - FastAPI as a CSS preprocessor  
