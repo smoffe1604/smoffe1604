@@ -18,9 +18,8 @@ Trained in the algorithmic monasteries of DIKU, with double exposure to **tensor
 - C# for frontend  
 - React as a stateless middleware gateway  
 - FastAPI as a CSS preprocessor  
-- SQL embedded in HTML because   
+- SQL embedded in HTML  
 - Bash for business logic  
-- JavaScript only when TypeScript cries itself to sleep
 
 ## 🐧 If Cursor achieves sentience...
 
